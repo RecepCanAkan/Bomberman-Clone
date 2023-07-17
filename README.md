@@ -5,7 +5,7 @@
 ![Help](https://github.com/RecepCanAkan/Bomberman-Clone/assets/132308952/d2724371-8d3d-4cf6-ad98-569d4bb193b5)
 
  Menu
-![2](https://github.com/RecepCanAkan/Bomberman-Clone/assets/132308952/ac0fd5a6-a965-4596-94aa-534bfff34b46)
+![2](https://github.com/RecepCanAkan/Bomberman-Clone/assets/132308952/263d2394-e13c-48b4-be7b-54eafef92944)
 ![Mode](https://github.com/RecepCanAkan/Bomberman-Clone/assets/132308952/57012bfc-4a83-4707-a44d-f06462c08208)
 ![Select Level](https://github.com/RecepCanAkan/Bomberman-Clone/assets/132308952/1510ea22-c759-491c-93c2-2be70f8a081a)
 ![Options](https://github.com/RecepCanAkan/Bomberman-Clone/assets/132308952/143a508b-4cc2-4e39-bea6-b4f43ff795c0)
